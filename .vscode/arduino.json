@@ -1,0 +1,5 @@
+{
+    "sketch": "FallingTarget.ino",
+    "board": "arduino:avr:leonardo",
+    "port": "/dev/ttyACM0"
+}
